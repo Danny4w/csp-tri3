@@ -1,22 +1,23 @@
 # Christmas Tree
-def crown(n):
+def ttree(n):
     for i in range(n):
         for x in range(n-i):
             print(' ', end=' ')
         for y in range(2*i+1):
-            print('*', end=' ')
+            print('o', end=' ')
         print()
 
-def trunk(n):
+def btree(n):
     for x in range(3):
         for i in range(n-1):
             print(' ', end=' ')
-        print('* * *')
+        print('o o o')
 
 def christmastree():
     row = int(input('Enter number of rows: '))
-    crown(row)
-    trunk(row)
+    ttree(row)
+    ttree(row)
+    btree(row)
 
 
 # Ship
@@ -46,10 +47,10 @@ def swap():
     else:
         print(a,b)
 
-def f1():
-    print('f1')
-def f2():
-    print('f2')
+def o1():
+    print('This is the First Option')
+def o2():
+    print('This is the Second Option')
 
 def buildMenu(menu):
     for key,value in menu.items():
@@ -72,12 +73,12 @@ def print_matrix():
         print(*x)
 
 subMenu = {
-    1: {"display":"f1",
-        "exec":f1,
+    1: {"display":"Daniel",
+        "exec":o1,
         "type":"func"},
-    2: {"display":"f2",
+    2: {"display":"Is Cool",
         "type":"func",
-        "exec":f2,}
+        "exec":o2,}
 }
 
 mainMenu = {

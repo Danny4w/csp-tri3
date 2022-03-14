@@ -9,12 +9,5 @@
 
 [Replit](https://replit.com/@Danny4w/csp-tri3#.replit)
 
-Daniel-Data-Structures-Repository-Tri-3
-Daniel Create Task Plan
-This repository is for all my individual work for trimester 3 data structures 1
-Danny4w.github.io
-Daniel-Data-Structures-Repository-Tri-3
-This repository is for all my individual work for trimester 3 data structures 1
-Daniel-Data-Structures-Repository-Tri-3
-Daniel 5.1-5.2 Notes
+
 This repository is for all my individual work for trimester 3 data structures 1

@@ -40,3 +40,6 @@ Our plans for the written responses are encapsulated by our Initial create task 
 * [Python file with functions](https://github.com/jar04/flask_portfolio/blob/07ae32acf2ddf0aa8994580c6dad9dc748354fa7/templates/danielcreate.py#L1-L65)
 * [html file code](https://github.com/jar04/flask_portfolio/blob/07ae32acf2ddf0aa8994580c6dad9dc748354fa7/templates/layouts/seniortask.html#L1-L42)
 * [main.py app route](https://github.com/jar04/flask_portfolio/blob/07ae32acf2ddf0aa8994580c6dad9dc748354fa7/main.py#L177-L189)
+![image](https://user-images.githubusercontent.com/89228041/158496899-0d50d186-5203-40fb-8306-fa7d81ad5750.png)
+![image](https://user-images.githubusercontent.com/89228041/158496908-9fef8708-41b3-410e-a025-43078dfcb640.png)
+

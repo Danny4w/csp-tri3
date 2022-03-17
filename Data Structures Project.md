@@ -17,5 +17,5 @@
 **MiniLabs**: 
 
 Week 0-
-[My Replic](https://replit.com/@Danny4w/csp-tri3#menu.py)
+[My Replit](https://replit.com/@Danny4w/csp-tri3#menu.py)
 ![image](https://user-images.githubusercontent.com/89228041/158494822-97940934-44b3-4ce2-91b7-2e15580ffeed.png)

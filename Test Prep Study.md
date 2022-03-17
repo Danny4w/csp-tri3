@@ -14,7 +14,7 @@
 - Computing innovations have often had unintended beneficial effects by leading to advances in other fields
 - Rapid sharing of a program or running a program with a large number of users can result in significant impacts beyond the intended purpose or control of the programmer
 
-**GH Actions-**
+**GH Actions**
 
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 - Some beneficial effects of computing is that it makes a lot of things easier. By being able to effectively communicate using technology or having greater access to resources you're able to inform yourself more about the world around you. Some of the harmful effects of computing is that you tend to become too reliant on these technologies. This can provoke all sorts of health problems in the future. 
@@ -30,7 +30,7 @@
   - The digital divide raises issues of equity, access, and influence, both globally and locally
   - The digital divide is affected by the actions of individuals, organizations, and governments
  
- **GH Actions-**
+ **GH Actions**
 
 1. How does someone empower themself in a digital world?
 - You can empower yourself in a digital world by staying informed about technologies and using them in your daily life. Being educated and provided with tech will help empower people in a digital environment. 
@@ -50,7 +50,7 @@
   - Example: netflix→ recommends shows based on genre interests
   - This is good for business because it gets more money if people stream on services longer
 
-**GH Actions-**
+**GH Actions**
 
 [HP computers are racist](https://www.youtube.com/watch?v=t4DT3tQqgRM)
 - The owner of the computer thinks this was intentional but most likely being a bug in the software as it was not tested enough. 
@@ -75,7 +75,7 @@ Examples:
 - Crowdfunding like kickstarter and GoFundMe
 - Blockchain like crypto and other tokens
 
-**GH Actions-**
+**GH Actions**
 
 1. CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
 - The 150 principes students could come together and find a way to help Ukraine fight against the Russian attacks. Crowdsourcing is essentially a group working together for a common goal so we intiate this idea in our enviroment by accepting donations and spreading the word.

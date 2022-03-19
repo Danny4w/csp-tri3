@@ -1,3 +1,9 @@
+---
+title: Data Structures Projects
+layout: template
+filename: Data-Structures-Projects
+--- 
+
 # Data Structures Projects
 [Link to my Github](https://github.com/Danny4w/csp-tri3/tree/gh-pages)
 ## Week 1

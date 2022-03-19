@@ -1,21 +1,17 @@
-**My GitHub Page**: 
-
+# Data Structures Projects
 [Link to my Github](https://github.com/Danny4w/csp-tri3/tree/gh-pages)
+## Week 1
+### Tri 3 TT1 Data Structures
+Lists & Loops
 
-**PBL Customer Project**: 
 
--home page with pictures of club things (preferably a slideshow)
 
--Information about how to join the club/signup/newsletter thing
 
--Database that stores peoples suggestions of holidays we should decorate for
+## Week 0
 
--Sassy could be a possible feature 
 
--Navbar
+### Tri 3 TT0 Python Menu, Replit, Github
+Python Menu w/ data structures and try/except statements
 
-**MiniLabs**: 
-
-Week 0-
 [My Replit](https://replit.com/@Danny4w/csp-tri3#menu.py)
 ![image](https://user-images.githubusercontent.com/89228041/158494822-97940934-44b3-4ce2-91b7-2e15580ffeed.png)

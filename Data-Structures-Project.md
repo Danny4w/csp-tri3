@@ -21,4 +21,4 @@ Lists & Loops: [Code here](https://replit.com/@Danny4w/lists-and-loops#main.py)
 Python Menu w/ data structures and try/except statements
 
 [My Replit](https://replit.com/@Danny4w/csp-tri3#menu.py)
-![image](https://user-images.githubusercontent.com/89228041/158494822-97940934-44b3-4ce2-91b7-2e15580ffeed.png)
+![image](https://user-images.githubusercontent.com/89228041/159142055-f56cd9f0-2ec2-4fd7-be18-67bf87d1f6fc.png)

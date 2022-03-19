@@ -1,3 +1,9 @@
+---
+title: 🏠
+layout: template
+filename: index
+--- 
+
 # Welcome to Daniel's Jekyll Page
 
 |Weeks|Create Task|Data Structures Project(includes code labs)|Test Prep Study(TPT Notes & GH Actions)|Review Ticket|

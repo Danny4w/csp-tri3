@@ -2,8 +2,9 @@
 [Link to my Github](https://github.com/Danny4w/csp-tri3/tree/gh-pages)
 ## Week 1
 ### Tri 3 TT1 Data Structures
-Lists & Loops
-[Code here](https://replit.com/@Danny4w/lists-and-loops#main.py)
+Lists & Loops: [Code here](https://replit.com/@Danny4w/lists-and-loops#main.py)
+
+
 
 
 

@@ -1,8 +1,3 @@
----
-title: 🏠
-layout: template
-filename: index
---- 
 
 # Welcome to Daniel's Jekyll Page
 

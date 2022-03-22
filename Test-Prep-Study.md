@@ -89,6 +89,62 @@ Examples:
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 - We could use the kids in Del Norte to work together to make Del Norte a better school and eradicate the lingering problems in our school. My final could be better with crowdsourcing as more brains can give us more ideas.
 
+**5.5: Legal and Ethical Concerns**
+
+Open source-Programs feely available and can be modified/redistributed
+
+Open access-Online research output free of restriction access like copyright and licensing
+
+Intellectual Property: (IP), work or invention that's a result of creativity to which one has rights
+
+Copyright:
+- Protects your IP and keeps anybody from using it unless you get permission
+- Plagiarism, presenting material as ur own
+- Legal ways to use material
+  - Open source
+  - Open access
+  - Creative Commons
+ 
+Creative Commons:
+- Provides a free license to tell others how ur gonna use their IP
+- Defines the usage of IP
+
+Digital Divide:
+- Unequal distribution of access to technology
+
+**5.6: Safe Computing**
+
+Personal Identifiable Information:
+- Info specific to an individual
+- Can be used to steal/impersonate from somebody
+- (PII) Search engines maintain history of what you search
+- Search history used to suggest other websites for marketing
+  - Can collect location
+- GOOD
+  - Can enhance the users experience
+- BAD
+  - Can be exploited if privacy is ignored
+  - Etc. Cookies and trackers
+
+Risks to Privacy:
+- Google knows where you live, and your IP
+- WiFi signal may be tracked
+- Stores w/ cameras can store your image
+  - All this info can be put online, which is hard to get rid of
+  - This info could be used against you and it could give other info about you that you didn't intend to share
+
+Authentication:
+- Authentication measures protect devices and information form unauthorized access
+  - Measures strong passwords and 2FA
+
+Virus and Malware:
+- Bad
+- Can copy and gain access to your information
+- Intended to harm and damage a computer
+Encryption:
+- Prevents unauthorized access
+Decryption:
+- Decoding data
 
 
 

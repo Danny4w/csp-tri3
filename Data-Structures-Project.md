@@ -6,6 +6,10 @@ filename: Data-Structures-Projects
 
 # Data Structures Projects
 [Link to my Github](https://github.com/Danny4w/csp-tri3/tree/gh-pages)
+
+## Week 2
+### Tri 3 TT2 Data Structures 2
+
 ## Week 1
 ### Tri 3 TT1 Data Structures
 Lists & Loops: [Code here](https://replit.com/@Danny4w/lists-and-loops#main.py)

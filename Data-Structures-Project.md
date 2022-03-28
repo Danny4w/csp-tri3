@@ -9,11 +9,11 @@ filename: Data-Structures-Projects
 
 ## Week 2
 ### Tri 3 TT2 Data Structures 2
-Factorial, Math Function & Palindrome Challenges: [Code here](https://replit.com/@Danny4w/csp-tri3#week%202/factorial.py)
+Factorial, Math Function & Palindrome Challenges: [Code here](https://replit.com/@Danny4w/csp-tri3#week2/factorial.py)
 
 ## Week 1
 ### Tri 3 TT1 Data Structures
-Lists & Loops: [Code here](https://replit.com/@Danny4w/lists-and-loops#main.py)
+Lists & Loops: [Code here](https://replit.com/@Danny4w/csp-tri3#week1/fib_lists_loops.py)
 
 
 

@@ -124,7 +124,7 @@ Digital Divide:
 - Open Source GPL License
   - Cannot distribute closed source versions.
 
-2
+2. Make a license for your personal and Team project. Document license you picked and why.
 - I will be using a Creative Common Lisense for my personal project so I can help future students with their Computer Scince Principles. The code from this personal repo is my legacy from this class and I want it to help CSP students to come.
 - Team Repo: We are choosing the Open Source MIT license, we will allow using the code from the Kylies-disciples GitHub to be used freely only to make and distribute closed source versions.
 

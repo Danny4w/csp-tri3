@@ -112,6 +112,23 @@ Creative Commons:
 Digital Divide:
 - Unequal distribution of access to technology
 
+**GH Actions**
+
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+- Creative Commons Zero v1.0 Universal
+  - No Copyright
+  - Dedicating work to public
+  - Work can be copied, repurposed, and distributed without seeking permission from the creator.
+- MIT License
+  - Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+- Open Source GPL License
+  - Cannot distribute closed source versions.
+
+2
+- I will be using a Creative Common Lisense for my personal project so I can help future students with their Computer Scince Principles. The code from this personal repo is my legacy from this class and I want it to help CSP students to come.
+- Team Repo: We are choosing the Open Source MIT license, we will allow using the code from the Kylies-disciples GitHub to be used freely only to make and distribute closed source versions.
+
+
 **5.6: Safe Computing**
 
 Personal Identifiable Information:
@@ -146,6 +163,23 @@ Encryption:
 Decryption:
 - Decoding data
 
+**GH Actions**
+
+1. Describe PII you have seen on project in CompSci Principles
+- I have seen Personal Identifiable Information (PII) in the CSP nighthawkcodingsociety website which links various social medias like twitter. 
+2. What are your feelings about PII and your exposure?
+- I feel like PII can be pretty sketchy at times because you can find a lot of information about yourself online. However, I think i'm pretty safe on the internet in general, despite knowing that theres exposure to my personal info like name, birthday, residence etc...
+3. Describe good and bad passwords? What is another step that is used to assist in authentication.
+- Passwords
+   - Good passwords are long with a mix of upper and lower case letters, numbers, and symbols.
+   - Bad Passwords have ties to your personal information (family names, dog name, birthday) and dictionary words.
+   - 2 Factor Authentication is extremely prevalent in our soctiety today. Emails, texts, and software-based authenticators like Google Authenticator are great ways to assist with authentication
+4. Try to describe Symmetric and Asymmetric encryption.
+   - Unlike symmetric encryption, which uses the same secret key to encrypt and decrypt sensitive information, asymmetric encryption, also known as public-key cryptography or public-key encryption, uses mathematically linked public- and private-key pairs to encrypt and decrypt senders' and recipients' sensitive data.
+5. Provide and example of encryption we used in deployment.
+   - When deploying we initally used HTTP which did not have encryption. But then we used HTTPS which is HTTP with encryption. The difference between the two protocols is that HTTPS uses TLS (SSL) to encrypt normal HTTP requests and responses.
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+   - Deceptive phishing is the most common type of phishing scam. In this ploy, fraudsters impersonate a legitimate company to steal people’s personal data or login credentials. Those emails use threats and a sense of urgency to scare users into doing what the attackers want.
 
 
 

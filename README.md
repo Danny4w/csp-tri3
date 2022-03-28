@@ -1,3 +1,3 @@
-# Daniel's Replit Week 0
+# Daniel's Replit Project
 
-https://replit.com/@Danny4w/csp-tri3#menu.py
+[Click here to view!!](https://replit.com/@Danny4w/csp-tri3#.replit)

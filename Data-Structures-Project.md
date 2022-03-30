@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ---
 title: Data Structures Project
 layout: template

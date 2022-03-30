@@ -6,6 +6,7 @@ filename: Data-Structures-Project
 
 # Data Structures Projects
 [Direct Replit Project](https://replit.com/@Danny4w/csp-tri3#menu.py)
+
 [Link to my Github](https://github.com/Danny4w/csp-tri3/tree/gh-pages)
 
 ## Week 2

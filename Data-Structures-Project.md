@@ -1,7 +1,7 @@
 ---
-title: Data Structures Projects
+title: Data Structures Project
 layout: template
-filename: Data-Structures-Projects
+filename: Data-Structures-Project
 --- 
 
 # Data Structures Projects

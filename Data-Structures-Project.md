@@ -9,17 +9,21 @@ filename: Data-Structures-Project
 
 ## Week 2
 ### Tri 3 TT2 Data Structures 2
-Factorial, Math Function & Palindrome Challenges: [Code here](https://replit.com/@Danny4w/csp-tri3#week2/factorial.py)
+
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@Danny4w/csp-tri3?lite=true#week2/factorial.py"></iframe>
+</div>
 
 ## Week 1
 ### Tri 3 TT1 Data Structures
-Lists & Loops: [Code here](https://replit.com/@Danny4w/csp-tri3#week1/fib_lists_loops.py)
 
-
-
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@Danny4w/csp-tri3?lite=true#week1/fibill.py"></iframe>
+</div>
 
 
 ## Week 0
+### Python Menu
 
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@Danny4w/csp-tri3?lite=true#week0/menu.py"></iframe>

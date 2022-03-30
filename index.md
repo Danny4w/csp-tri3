@@ -1,4 +1,8 @@
-{% include navigation.html %}
+---
+title: Home
+layout: template
+filename: index
+--- 
 
 # Welcome to Daniel's Jekyll Page
 ## By [Daniel Bertino](https://github.com/Danny4w)

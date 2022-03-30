@@ -1,4 +1,3 @@
-
 ---
 title: Data Structures Projects
 layout: template

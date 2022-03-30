@@ -1,11 +1,12 @@
 {% include navigation.html %}
 
 # Welcome to Daniel's Jekyll Page
-## By [Daniel Bertino](https://github.com/Danny4w)
 
+#### Created by [Daniel Bertino](https://github.com/Danny4w)
 
-### [Team Github Page](https://kar722.github.io/kylies-disciples/)
+#### [Team Github Page](https://kar722.github.io/kylies-disciples/)
 
+## TimeBox
 
 | Week      | Review Ticket | Replit |
 | ----------- | ----------- | ----------- |

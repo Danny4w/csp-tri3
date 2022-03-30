@@ -21,17 +21,23 @@ def findAvg(num1, num2):
 
 # Function to print elements
 def min_max_avg(a, b):
-    #a = int(input(" Enter the First Value : "))
-    #b = int(input(" Enter the Second Value : "))
     min_val = findMin(a, b)
-    max_val = findMin(a, b)
+    max_val = findMax(a, b)
     avg_val = findAvg(a, b)
-    print("\n min of {0} and {1} is: {2}".format(a, b, min_val))
-    print("\n max of {0} and {1} is: {2}".format(a, b, max_val))
-    print("\n avg of {0} and {1} is: {2}".format(a, b, avg_val))
+    print("min of {0} and {1} is: {2}".format(a, b, min_val))
+    print("max of {0} and {1} is: {2}".format(a, b, max_val))
+    print("avg of {0} and {1} is: {2}".format(a, b, avg_val))
     print()
+    return
+
+def do_mma():
+    a = int(input(" Enter the First Value : "))
+    b = int(input(" Enter the Second Value : "))
+    min_max_avg(a,b)
+    return
+
 
 #test data 
-min_max_avg(8,6)
-min_max_avg(20,30)
-min_max_avg(400,600)
+#min_max_avg(8,6)
+#min_max_avg(20,30)
+#min_max_avg(400,600)

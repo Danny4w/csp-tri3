@@ -11,5 +11,5 @@ class Factorial:
 
 D_facto = Factorial()    # instantiate the class object and run __init__
 
-n=int(input("enter a positive number : "))
-print(D_facto(n))            # execute __call__ and print result
+#n=int(input("enter a positive number : "))
+#print(D_facto(n))            # execute __call__ and print result

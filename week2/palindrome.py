@@ -49,21 +49,28 @@ class Palindrome:
     def logger(self, part1, part2, result):
       self.tests.append({"test": self.string, "part1": part1, "part2": part2, "result": result})
 
-      
+def do_pal():
+  a = input(" Enter a word or sentence : ")
+  Entry1=Palindrome(a)
+  print(f"is {a} palindrome? answer:  {Entry1.palindrome_ok}")
+
+  return
+
+
 # Tester Code
-def pal():      
+def pal():
   good = "Race car"
   bad = "onomatopoeia"
   goodphrase = "A man, a plan, a canal -- Panama!"
   goodphrase2 = "Evil olive."
   badphrase = "This is not a palindrome!"
-  
+
   Entry1 = Palindrome(good)
   Entry2 = Palindrome(bad)
   Entry3 = Palindrome(goodphrase)
   Entry4 = Palindrome(goodphrase2)
   Entry5 = Palindrome(badphrase)
-  
+
   # access the class attributes
   print(f"{good} is {Entry1.palindrome_ok}")
   print(f"{bad} is {Entry2.palindrome_ok}")

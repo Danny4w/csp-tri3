@@ -1,6 +1,10 @@
-{% include navigation.html %}
-
-###Program Overview: 
+---
+title: Create Task Project
+layout: template
+filename: Create-Task-Project
+---
+**College Board Requirements**
+**Program Overview**:
 In our program, we plan on taking an INPUT from the USER. It will ask for an input, (less than, greater than, or equal to) and the code will store numbers ranging from 1 - 100. Our program will have to guess the number that the user is thinking of and the possible numbers will be put into a list, and once the user selects a button, the procedure will be called and determine what numbers must be kept or eliminated. Then it will display the function result: how many tries it took and whether the program was correct or not.
 **Inputs**:
 Inputs will be given as radio buttons for the user to select. If the user does not select an option, a proper response will be displayed.

@@ -1,4 +1,3 @@
-{% include DataStructuresProject.html %}
 
 ---
 title: Data Structures Projects

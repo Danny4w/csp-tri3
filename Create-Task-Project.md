@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ---
 title: Create Task Project
 layout: template

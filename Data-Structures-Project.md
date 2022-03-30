@@ -5,6 +5,7 @@ filename: Data-Structures-Project
 --- 
 
 # Data Structures Projects
+[Direct Replit Project](https://replit.com/@Danny4w/csp-tri3#menu.py)
 [Link to my Github](https://github.com/Danny4w/csp-tri3/tree/gh-pages)
 
 ## Week 2
@@ -29,8 +30,3 @@ filename: Data-Structures-Project
     <iframe height="1000px" width="700px" src="https://replit.com/@Danny4w/csp-tri3?lite=true#week0/menu.py"></iframe>
 </div>
 
-### Tri 3 TT0 Python Menu, RepLit, GitHub
-Python Menu w/ data structures and try/except statements
-
-[My RepLit](https://replit.com/@Danny4w/csp-tri3#menu.py)
-![image](https://user-images.githubusercontent.com/89228041/159142055-f56cd9f0-2ec2-4fd7-be18-67bf87d1f6fc.png)

@@ -21,7 +21,9 @@ Lists & Loops: [Code here](https://replit.com/@Danny4w/csp-tri3#week1/fib_lists_
 
 ## Week 0
 
-{% include DataStructuresProject.html %}
+<div class="row justify-content-center" style="margin: 2%;">
+    <iframe height="1000px" width="700px" src="https://replit.com/@Danny4w/csp-tri3?lite=true#week0/menu.py"></iframe>
+</div>
 
 ### Tri 3 TT0 Python Menu, RepLit, GitHub
 Python Menu w/ data structures and try/except statements

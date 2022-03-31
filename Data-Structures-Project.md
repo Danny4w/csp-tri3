@@ -1,8 +1,4 @@
----
-title: Data Structures Project
-layout: template
-filename: Data-Structures-Project
---- 
+{% include navigation.html %}
 
 # Data Structures Projects
 [Direct Replit Project](https://replit.com/@Danny4w/csp-tri3#menu.py)

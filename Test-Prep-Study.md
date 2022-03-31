@@ -1,8 +1,4 @@
----
-title: Test Prep Study
-layout: template
-filename: Test-Prep-Study
---- 
+{% include navigation.html %}
 
 **5.1 Beneficial & Harmful Effects**
 - People create computing innovations

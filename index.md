@@ -6,7 +6,7 @@
 
 #### [Team Github Page](https://kar722.github.io/kylies-disciples/)
 
-## TimeBox
+# TimeBox
 
 | Week      | Review Ticket | Replit |
 | ----------- | ----------- | ----------- |

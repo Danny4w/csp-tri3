@@ -13,7 +13,7 @@
 
 # Deliverable 
 <div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="1000px" width="700px" src="https://drive.google.com/file/d/1v_7a69sfSqwqi2dT8pj5kvcfv5O3UqVK/view?lite=trueusp=sharing"></iframe>
+    <iframe height="700px" width="300px" src="https://drive.google.com/file/d/1v_7a69sfSqwqi2dT8pj5kvcfv5O3UqVK/view?usp=sharing"></iframe>
 </div>
 
 #### [Team Pages](https://kar722.github.io/kylies-disciples/)

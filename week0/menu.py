@@ -1,4 +1,5 @@
 # Christmas Tree
+#displays the top of the xmas tree
 def ttree(n):
     for i in range(n):
         for x in range(n-i):
@@ -7,12 +8,14 @@ def ttree(n):
             print('o', end=' ')
         print()
 
+#displays the trunk of xmas tree
 def btree(n):
     for x in range(3):
         for i in range(n-1):
             print(' ', end=' ')
         print('o o o')
 
+#displays full tree
 def christmastree():
     row = int(input('Enter number of rows: '))
     ttree(row)
@@ -20,6 +23,7 @@ def christmastree():
     btree(row)
 
 # Swap
+#displays 2 numbers in ascending order
 def swap():
     a = int(input("First Number?: "))
     b = int(input("Second Number?: "))
@@ -28,6 +32,7 @@ def swap():
     else:
         print(a,b)
 
+#submenu
 def o1():
     print('This is the First Option')
 def o2():
@@ -48,11 +53,13 @@ def presentMenu(menu):
         else:
             presentMenu(menu[choice]["exec"])
 
+#dispays keypad
 def print_matrix():
     matrix = [[1,2,3],[4,5,6],[7,8,9],["*",0,"#"]]
     for x in matrix:
         print(*x)
 
+#defines a sample sub menu
 subMenu = {
     1: {"display":"Daniel",
         "exec":o1,
@@ -61,7 +68,7 @@ subMenu = {
         "type":"func",
         "exec":o2,}
 }
-
+#defines the main menu
 mainMenu = {
     1: {"display":"Christmas Tree",
         "exec":christmastree,

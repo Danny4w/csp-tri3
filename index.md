@@ -9,6 +9,7 @@
 | Week 0      | [Week 0 Review Ticket](https://github.com/Danny4w/csp-tri3/issues/1)| [Menu](https://replit.com/@Danny4w/csp-tri3#week0/menu.py)|
 | Week 1   | [Week 1 Review Ticket](https://github.com/Danny4w/csp-tri3/issues/2)| [Lists, Loops & Fib](https://replit.com/@Danny4w/csp-tri3#week1/fib_lists_loops.py) |
 | Week 2 | [Week 2 Review Ticket](https://github.com/Danny4w/csp-tri3/issues/3) | [Factorial & Math Function](https://replit.com/@Danny4w/csp-tri3#week2/factorial.py) |
+| Week 3 | [Crossover Code!!](https://github.com/kiannp44/Replit-Full-Menu/commits?author=Danny4w) | [Kian's Replit](https://replit.com/@kiannp44/Full-Menu-Proj#Week0/cokefunc.py) 
 
 #### [Team Pages](https://kar722.github.io/kylies-disciples/)
 

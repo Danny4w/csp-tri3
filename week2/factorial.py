@@ -1,15 +1,25 @@
-#Hack 2: Write Factorial function using classes, providing implementation of call.
-  #-Print final number
-class Factorial:
+#class implementation of factorial function
+class factorial:
+
+    #initializes class local var
     def __init__(self):
-      self.fact = 1
-    def __call__(self, n):
-      for x in range(2, n+1):
-        self.fact = self.fact * x;
-      
-      return self.fact
+        self.final = [1]
 
-D_facto = Factorial()    # instantiate the class object and run __init__
+    #main function of factorial
+    def __call__(self,n):
+        if n < len(self.final):
+            return 1
+        else:
+            f_number = n * self(n-1)
+            self.final.append(f_number)
+        return self.final[n]
 
-#n=int(input("enter a positive number : "))
-#print(D_facto(n))            # execute __call__ and print result
+#creates an object of factorial class & displays results
+def do_fact():
+    obj = factorial()
+    n = int(input("n = "))  #user input
+    print(obj(n))
+    return
+
+if __name__ == "__main__":
+    do_fact()

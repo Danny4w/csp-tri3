@@ -12,9 +12,7 @@
 | Week 3 | [Crossover Code!!](https://github.com/kiannp44/Replit-Full-Menu/commits?author=Danny4w) | [Kian's Replit](https://replit.com/@kiannp44/Full-Menu-Proj#Week0/cokefunc.py) 
 
 # Deliverable 
-<div class="row justify-content-center" style="margin: 2%;">
-    <iframe height="700px" width="300px" src="https://drive.google.com/file/d/1v_7a69sfSqwqi2dT8pj5kvcfv5O3UqVK/view?usp=sharing"></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLOlXNYs9_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### [Team Pages](https://kar722.github.io/kylies-disciples/)
 

@@ -10,6 +10,7 @@
 | Week 1   | [Week 1 Review Ticket](https://github.com/Danny4w/csp-tri3/issues/2)| [Lists, Loops & Fib](https://replit.com/@Danny4w/csp-tri3#week1/fib_lists_loops.py) |
 | Week 2 | [Week 2 Review Ticket](https://github.com/Danny4w/csp-tri3/issues/3) | [Factorial & Math Function](https://replit.com/@Danny4w/csp-tri3#week2/factorial.py) |
 | Week 3 | [Crossover Code!!](https://github.com/kiannp44/Replit-Full-Menu/commits?author=Danny4w) | [Kian's Replit](https://replit.com/@kiannp44/Full-Menu-Proj#Week0/cokefunc.py) 
+| Week 4-6 | |  
 
 # Deliverable 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLOlXNYs9_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

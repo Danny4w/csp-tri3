@@ -10,7 +10,7 @@
 | Week 1   | [Week 1 Ticket](https://github.com/Danny4w/csp-tri3/issues/2)| [Lists, Loops & Fibonacci](https://replit.com/@Danny4w/csp-tri3#week1/fib_lists_loops.py) |
 | Week 2 | [Week 2 Ticket](https://github.com/Danny4w/csp-tri3/issues/3) | [Factorial, Math Function & Palindrome](https://replit.com/@Danny4w/csp-tri3#week2/factorial.py) |
 | Week 3 | [Week 3 Ticket](https://github.com/Danny4w/csp-tri3/issues/4) |[Python Tangibles](https://github.com/kiannp44/Replit-Full-Menu/commits?author=Danny4w) on [Crossover Replit](https://replit.com/@kiannp44/Full-Menu-Proj#Week0/cokefunc.py) 
-| Week 4-6 | |  
+| Week 4-6 | | [Create Task Project](https://replit.com/@Danny4w/Create-Task#main.py) 
 
 # Deliverable 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLOlXNYs9_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,3 +1,3 @@
-# Daniel's GitHub Pages 
+# My GitHub Pages 
 
-[Click here to view!!](https://replit.com/@Danny4w/csp-tri3#.replit)
+[Visit Published Site](https://danny4w.github.io/csp-tri3/)

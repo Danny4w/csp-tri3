@@ -1,11 +1,10 @@
 {% include navigation.html %}
 
 # Welcome to my Github Pages
-
-# TimeBox
-
 - [Team Scrum Board](https://github.com/GavinYWu/kylies-disciples2/projects/1)
 - [Click to View Team Repository](https://github.com/GavinYWu/kylies-disciples2)
+
+# TimeBox
 
 | Week      | Review Ticket | Replit Runtimes & Assignments |
 | ----------- | ----------- | ----------- |

@@ -13,7 +13,7 @@
   - add interactive features 
 
 
-- Link to Tangibles: 
+- [Link to Tangibles](https://github.com/GavinYWu/kylies-disciples2/issues/7#issue-1209094038)
 
 
 

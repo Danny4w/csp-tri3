@@ -1,6 +1,6 @@
 {% include navigation.html %}
  
-# CB & PBL Planning 
+# Lecture Video Notes
 
 - On this page you will find notes to college board video lectures completed over a 3 week period(Weeks 5-7).
 

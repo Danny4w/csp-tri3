@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-# CSP Notes
+# Tech-Talk Notes
 
 **5.1 Beneficial & Harmful Effects**
 - People create computing innovations

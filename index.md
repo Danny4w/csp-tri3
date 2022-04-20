@@ -14,6 +14,7 @@
 | Week 3 | [Week 3 Ticket](https://github.com/Danny4w/csp-tri3/issues/4) |[Python Tangibles](https://github.com/kiannp44/Replit-Full-Menu/commits?author=Danny4w) on [Crossover Replit](https://replit.com/@kiannp44/Full-Menu-Proj#Week0/cokefunc.py) 
 | Week 4| [Week 4 Ticket](https://github.com/Danny4w/csp-tri3/issues/5) | Team Logins & [Create Task Project](https://replit.com/@Danny4w/csp-tri3#Create-Task/danielcreate.py) 
 | Week 5-7|[Review Tickets](https://github.com/GavinYWu/kylies-disciples2/issues/7#issue-1209094038) | [CB Lecture Notes](https://danny4w.github.io/csp-tri3/Planning)
+
 # Deliverable 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLOlXNYs9_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

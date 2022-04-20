@@ -1,6 +1,6 @@
 {% include navigation.html %}
  
-# Sponsor Project Planning
+# PBL Planning
 - [Click to View Team Repository](https://github.com/GavinYWu/kylies-disciples2)
  
 ## Week 5

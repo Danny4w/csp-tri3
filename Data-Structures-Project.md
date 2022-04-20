@@ -1,18 +1,18 @@
 {% include navigation.html %}
 
-# Data Structures Projects
+# Data Structures Project
 - [Direct link to Replit Project](https://replit.com/@Danny4w/csp-tri3#menu.py)
 - [Link to Main](https://github.com/Danny4w/csp-tri3/tree/main)
 
 ## Week 2
-### Tri 3 TT2 Data Structures 2
+### Classy Functions
 
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@Danny4w/csp-tri3?lite=true#week2/factorial.py"></iframe>
 </div>
 
 ## Week 1
-### Tri 3 TT1 Data Structures
+### Lists & Loops
 
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@Danny4w/csp-tri3?lite=true#week1/fibill.py"></iframe>

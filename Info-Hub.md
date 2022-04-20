@@ -1,6 +1,6 @@
 {% include navigation.html %}
  
-# Sponsor Project Planning
+# [Sponsor Project Planning](https://github.com/GavinYWu/kylies-disciples2)
  
 ## Week 5
 - Scrum Board planning: includes collaboration and assigning issuess to team members to fulfil tasks that need to be complated for the week

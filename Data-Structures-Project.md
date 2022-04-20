@@ -1,9 +1,8 @@
 {% include navigation.html %}
 
 # Data Structures Projects
-[Direct link to Replit Project](https://replit.com/@Danny4w/csp-tri3#menu.py)
-
-[Link to my Github](https://github.com/Danny4w/csp-tri3/tree/gh-pages)
+- [Direct link to Replit Project](https://replit.com/@Danny4w/csp-tri3#menu.py)
+- [Link to Main](https://github.com/Danny4w/csp-tri3/tree/main)
 
 ## Week 2
 ### Tri 3 TT2 Data Structures 2

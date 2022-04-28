@@ -27,4 +27,3 @@ On this page you will find notes to CB University Lectures completed over a thre
 
 - [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issuecomment-1104341057)
 
-

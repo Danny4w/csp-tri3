@@ -2,7 +2,7 @@
  
 # Lecture Video Notes
 
-- On this page you will find notes to college board video lectures completed over a 3 week period(Weeks 5-7).
+On this page you will find notes to CB University Lectures completed over a three week period(Weeks 5-7).
 
  
 ## Week 5
@@ -15,6 +15,8 @@
 - [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issue-1209094038)
 
 ## Week 6
+
+![mcq week 6](https://user-images.githubusercontent.com/89228041/165668041-91f13524-f6bb-4ef7-b7fb-c8e34a7d03ac.png)
 
 
 - [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issuecomment-1104340873)

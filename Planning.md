@@ -9,7 +9,7 @@ On this page you will find notes to CB University Lectures completed over a thre
 
 ### Creative Development
 
-<iframe height="700px" width="510px" src="https://docs.google.com/document/d/e/2PACX-1vSxDGZmNTdr02VS9qwibJ6ttxe56Mk_zGv-Jp6JTakJphX9HQKn1PC6msotZ_y7O_hvKANbaM804BdT/pub?embedded=true"></iframe>
+<iframe height="700px" width="620x" src="https://docs.google.com/document/d/e/2PACX-1vSxDGZmNTdr02VS9qwibJ6ttxe56Mk_zGv-Jp6JTakJphX9HQKn1PC6msotZ_y7O_hvKANbaM804BdT/pub?embedded=true"></iframe>
 
 
 - [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issue-1209094038)

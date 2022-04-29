@@ -18,7 +18,6 @@ On this page you will find notes to CB University Lectures completed over a thre
 
 ### Computer Systems & Networks
 
-<iframe height="700px" width="620x" src="https://docs.google.com/document/d/e/2PACX-1vSpWX7N6j49xsnPeDd1dDHGhmd0rbWDB60ym_P-c9HmWY4BnHptF1XBAc97Cv2vQBISUzfwse9IIlYG/pub?embedded=true"></iframe>
 
 ![mc](https://user-images.githubusercontent.com/89228041/165817871-5edfe208-6959-445c-b236-86ab6f80b52e.png)
 

@@ -27,5 +27,9 @@ On this page you will find notes to CB University Lectures completed over a thre
 
 ## Week 7
 
+### Impact of Computing
+
+<iframe height="700px" width="620x" src="https://docs.google.com/document/d/e/2PACX-1vSXglhhg9aheWnKvPDF_PI2pM7rUQ4GZ24mbbqfLHuQ7PdGI6_s3klxBLHb9FB0f7mVPS8KMmurQuj8/pub?embedded=true"></iframe>
+
 - [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issuecomment-1104341057)
 

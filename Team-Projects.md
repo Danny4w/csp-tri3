@@ -1,2 +1,2 @@
 <h1>Team Projects</h1>
-<img src-"csp1.png" >
+![image] "(https://raw.githubusercontent.com/Danny4w/csp-tri3/gh-pages/csp1.png)" 

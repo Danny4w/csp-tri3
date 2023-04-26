@@ -1,2 +1,3 @@
 <h1>Team Projects</h1>
-![image] "(https://raw.githubusercontent.com/Danny4w/csp-tri3/gh-pages/csp1.png)" 
+
+![image](https://user-images.githubusercontent.com/89228041/234485397-390f61da-879f-4ec5-8db7-f6fbe366bad9.png)

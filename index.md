@@ -1,6 +1,7 @@
 {% include navigation.html %}
 
 # Welcome to my Github Pages
+
  | Website Development |
  | ----------- |
  | [Click to See All About Our Website!](https://github.com/KylieScharf/newportfolio)|

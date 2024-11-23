@@ -1,35 +1,13 @@
 {% include navigation.html %}
  
-# Lecture Video Notes
-
-On this page you will find notes to CB University Lectures completed over a three week period(Weeks 5-7).
-
- 
-## Week 5
-
-### Creative Development
-
-<iframe height="700px" width="620x" src="https://docs.google.com/document/d/e/2PACX-1vSxDGZmNTdr02VS9qwibJ6ttxe56Mk_zGv-Jp6JTakJphX9HQKn1PC6msotZ_y7O_hvKANbaM804BdT/pub?embedded=true"></iframe>
-
-- [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issue-1209094038)
+# Web Design Topics 
+based on College Board Lectures
 
 
-## Week 6
+| Week      | Topic | Review Ticket |
+| ----------- | ----------- | ----------- |
+| Week 5      | Creative Development | [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issue-1209094038) |
+| Week 6   |Computer Systems & Networks | [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issuecomment-1104340873) |
+| Week 7 | Impact of Computing | [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issuecomment-1104341057) |
 
-### Computer Systems & Networks
-
-<iframe height="700px" width="620x" src="https://docs.google.com/document/d/e/2PACX-1vSpWX7N6j49xsnPeDd1dDHGhmd0rbWDB60ym_P-c9HmWY4BnHptF1XBAc97Cv2vQBISUzfwse9IIlYG/pub?embedded=true"></iframe>
-
-![mc](https://user-images.githubusercontent.com/89228041/165817871-5edfe208-6959-445c-b236-86ab6f80b52e.png)
-
-- [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issuecomment-1104340873)
-
-
-## Week 7
-
-### Impact of Computing
-
-<iframe height="700px" width="620x" src="https://docs.google.com/document/d/e/2PACX-1vSXglhhg9aheWnKvPDF_PI2pM7rUQ4GZ24mbbqfLHuQ7PdGI6_s3klxBLHb9FB0f7mVPS8KMmurQuj8/pub?embedded=true"></iframe>
-
-- [Review Ticket/Score](https://github.com/GavinYWu/kylies-disciples2/issues/7#issuecomment-1104341057)
 

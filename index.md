@@ -32,11 +32,7 @@
 
 # About Me
 
-Hello! My name is [Daniel Bertino](https://github.com/Danny4w), but you can call me Danny. I am fluent in English, Italian and Spanish. Some of my main interests are outdoor-related activities. One of my favorite things to do in my spare time is travel. I've been to various parts of Europe and each year I would typically spend my summers traveling. Since all my family and relatives are in Italy I would go there to see them each year and hang out with my friends. Some of my other interests, besides traveling, are sailing, nature hikes, biking, and fishing. Soccer has also been one of my favorite sports since I was little, so I like to play when I can. A field of study that I’m passionate about is Architecture. This year, I took computer science principles because I wanted to try to learn more about a different field and get a background of how coding works as our world continues to become more digital.
-
-
-
-
+Hello! My name is [Daniel Bertino](https://github.com/Danny4w), but you can call me Danny. I enjoy spending time outdoors and exploring new places. Growing up, I spent my summers in Italy with family and friends, which gave me a deep appreciation for different cultures and natural environments. I also enjoy going on nature walks and playing sports like basketball and soccer. My interest in architecture, particularly its sustainable aspects, grew after taking an architecture & design class. I admire how innovative design can work with nature to create spaces that are both functional and environmentally friendly. This year, I decided to take a computer science course because I wanted to try to learn more about a different field and gain some technical skills as our world continues to become more digital. 
 
 
 

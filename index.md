@@ -19,7 +19,7 @@
 | Week 2 | [Week 2 Ticket](https://github.com/Danny4w/csp-tri3/issues/3) | [Factorial, Math Function & Palindrome](https://replit.com/@Danny4w/csp-tri3#week2/factorial.py) |
 | Week 3 | [Week 3 Ticket](https://github.com/Danny4w/csp-tri3/issues/4) |[Python Tangibles](https://github.com/kiannp44/Replit-Full-Menu/commits?author=Danny4w) on [Crossover Replit](https://replit.com/@kiannp44/Full-Menu-Proj#Week0/cokefunc.py) 
 | Week 4| [Week 4 Ticket](https://github.com/Danny4w/csp-tri3/issues/5) | Team Logins & [Create Task Project](https://replit.com/@Danny4w/csp-tri3#Create-Task/danielcreate.py) 
-| Week 5-7| ---- | [CB Lecture Notes](https://danny4w.github.io/csp-tri3/Planning)
+| Week 5-7| --- | [CB Lecture Notes](https://danny4w.github.io/csp-tri3/Planning)
 | Week 8-11|[Last Ticket !!](https://github.com/GavinYWu/kylies-disciples2/issues/18) | [PBL through N@tM](https://github.com/GavinYWu/kylies-disciples2/graphs/contributors)
 
 

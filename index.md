@@ -32,12 +32,7 @@
 
 # About Me
 
-Hello! My name is [Daniel Bertino](https://github.com/Danny4w?tab=stars), but you can call me Danny. I love spending time outdoors, going on nature hikes, and staying active with sports like basketball and soccer. Growing up, I spent my summers in Italy visiting family and traveling, which deepened my appreciation for diverse cultures. One of my favorite classes so far has been architecture and design. After taking it my freshman year, I became interested in exploring other courses with a similar focus, such as environmental science. This ultimately sparked my passion for sustainable development. I admire how thoughtful design can work with nature to create spaces that are both functional and environmentally friendly. This year, I decided to take a computer science class because I wanted to learn more about the relationship between technology and sustainability while gaining some technical skills as our world becomes increasingly digital.
-
-
-
-
-
+Hello! My name is [Daniel Bertino](https://github.com/Danny4w?tab=stars), but you can call me Danny. I love spending time outdoors, going on  hikes, and staying active with sports like basketball and soccer. Growing up, I spent my summers in Italy visiting family and traveling, which deepened my appreciation for diverse cultures. One of my favorite classes so far has been architecture and design. After taking it my freshman year, I became interested in exploring other courses with a similar focus, such as environmental science. This ultimately sparked my passion for sustainable development. I admire how thoughtful design allows us to continue innovating and advancing society while being mindful of our impact on the environment. This interest in responsible innovation led me to explore how technology can contribute to creating a better future. During my senior year, I decided to take a computer science course to better understand the role technology can play in addressing environmental challenges while developing technical skills that will become increasingly valuable in our digital world.
 
 
 
